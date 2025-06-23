@@ -17,5 +17,7 @@
 ![](assets/cambio-image-inicio.png)
 
 2. Paleta de comandos
+- Borde redondo
+- Fondo borroso [comentado]
 
 ![](assets/customizacion-paleta-comando.png)
